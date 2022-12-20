@@ -3,6 +3,11 @@
 ![foto](https://s2.gaming-cdn.com/images/products/10204/orig/maniac-mansion-pc-mac-juego-steam-cover.jpg?v=1652969506)
 > Ensayo realizado por Víctor Sordo Vicente para la asignatura de Cultura digital de la Universitat oberta de Barcelona. Diciembre de 2022.
 
+## Introducción
+
+Afronto este tercer reto de la asignatura bajo el paraguas de la hibridación según Manovich entendida como la unión de medios y sus diferentes técnicas para crear algo nuevo. Es la evolución lógica de los medios después de una primera etapa de simulación de los medios físicos.
+Me gusta imaginar a Alan Kay en el sofá de su casa leyendo al filósofo Jerome Bruner y postulando sus ideas sobre la existencia: Actuante, simbólica e icónica. ¿Quién le iba a decir que apenas unos años más tarde la modalidad **actuante** implantada en Xerox parc en la que se podía interactuar con en el ratón en los iconos de pantalla sería la base de uno de los juegos más míticos de la historia?
+
 Hasta mediados de los años 80 y con la llegada de los primeros ordenadores de 8 bits pudimos disfrutar de los primeros juegos conversacionales que en su momento consideramos un prodigio de la técnica. Esa década que como Manovich afirma fue la de "*comercialización y adopción generalizada del ordenador como elemento en casa*" (**Manovich, Lev, 2013**), trajo consigo un cambio de paradigma en lo que a los videojuegos se refiere, llegando de la mano de Lucasfilms games en 1987 **Maniac mansion**, la primera aventura gráfica de la historia concebida en 1985 por Ron Gilbert y Gary Winnick.
 
 El juego que abrió la puerta adelantándose a algunos de los grande clásicos que llegarían poco después como  *The secret of monkey island* o *Indiana Jones y la última cruzada*, traía consigo numerosas mecánicas nuevas de interacción con el usuario además de la inserción de lo que llamaron *cutscenes*, que no era otra cosa que las cinemáticas que hoy día vemos en todos los juegos del mercado: Escenas que avanzan la trama en la que se mezcla música, video, efectos de sonido y texto. [Cinemática inicial del juego, 1987. Lucasfilms Games](https://www.youtube.com/watch?app=desktop&v=hJkfy1uaGPI), todo un alarde de hibridación dentro de un videojuego, lo cual fue enormemente explotado en muchos juegos posteriores, llegando hasta nuestros días.
@@ -124,3 +129,4 @@ https://s.lalal.ai/share/share-default.png
 
 https://miro.medium.com/max/1400/1*9wh9qDVi5QnSqlg4aekQ6A.png
 
+>Licencia: Creative Commons desarrollado bajo licencia CC BY-SA 4.0
