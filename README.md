@@ -1,4 +1,4 @@
-﻿## Visionando el futuro y redescubriendo la hibrídación · Cultura Digital · UOC ·
+﻿## Visionando el futuro y redescubriendo la hibridación · Cultura Digital · UOC ·
 
 ![foto](https://s2.gaming-cdn.com/images/products/10204/orig/maniac-mansion-pc-mac-juego-steam-cover.jpg?v=1652969506)
 > Ensayo realizado por Víctor Sordo Vicente para la asignatura de Cultura digital de la Universitat oberta de Barcelona. Diciembre de 2022.
@@ -24,7 +24,7 @@ De la misma manera que el uso de *After effects* crea una "estética de la hibri
 
 En definitiva, si nos ponemos las **gafas de Manovich**, entendemos inmediatamente cómo este juego abrió la puerta a la hibridación. La sencilla idea de tener el medio de las cinemáticas que narran visualmente y avanzan la trama al más puro estilo de cómo lo haría un recitativo en una ópera no se podía dejar escapar. Aún resuena en mi cabeza las palabras de Manovich "*con cámaras hogareñas y teléfonos celulares que son en su mayoría usados sin edición (al menos, por ahora*". Ese "*al menos por ahora)*" que hoy día 15 años después de escribirlas suena casi inocente en un momento en el que todo es software de edición en los teléfonos, podría casi extrapolarse filosóficamente a como entendieron Gilbert y Winnick sus cutscenes en 1987 y que hoy se han transformado en el *summum* de la sofisticación cinemática.
 
-[Cinemática Dark souls V](https://www.youtube.com/watch?v=crUxLGq5kVw)
+> Si os interesa el mundo de la cinemática y las cutscenes, os propongo un pequeño viaje por la evolución e historia de este tipo de hibridación al final de la bibliografía. Espero que la disfrutéis. 
 
 
 
@@ -83,6 +83,15 @@ http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
 Manovich, 2013. *El software toma el mando*
 https://cutt.ly/C0S5Zvx
 
+Cortos de metraje. Sin fecha. "Cinemáticas en los videojuegos"
+https://cortosdemetraje.com/videojuegos/
+
+Klevjer, 2014. "Cutscenes (Videogames)"
+https://runeklevjer.files.wordpress.com/2013/01/klevjer_cutscene_johns-hopkins-guide-digital-media-post-print.pdf
+
+Wikipedia. Sin fecha. "Cutscenes"
+https://en.wikipedia.org/wiki/Cutscene
+
 
 **Maniac Mansion**
 
@@ -131,4 +140,64 @@ https://s.lalal.ai/share/share-default.png
 
 https://miro.medium.com/max/1400/1*9wh9qDVi5QnSqlg4aekQ6A.png
 
->Licencia: Creative Commons desarrollado bajo licencia CC BY-SA 4.0
+## Historia de la cinemática como hibridación:
+
+>Como parte de la webgrafía que ya de por si se está extendiendo más de la cuenta, os propongo este pequeño gran viaje a través de 40 años de cinemáticas o *cutscenes* en el videojuego, comenzando por un juego español hecho nada más y nada menos que en mi tierra, Extremadura en el año 1983 y que está considerado **el primer juego de la historia que las incluyó**
+
+
+La pulga 83. (Made in Spain)
+https://youtu.be/XNsIt-eU224
+
+Dragons lair 83 (Dibujado por Don Bluth)
+https://youtu.be/lfJxgg3LWU0
+
+Road Blaster 85
+https://www.youtube.com/watch?v=nOn9L7RRrXk
+
+Maniac 87
+https://youtu.be/rixQKw8bwCY
+
+Zero wing. 89
+https://www.youtube.com/watch?v=7u5Z-PGJWYU
+
+Myst. 93
+https://www.youtube.com/watch?v=B1kTwfWKa8M
+
+Phantasmagoria 95
+https://www.youtube.com/watch?v=IalTFuVxeRo
+
+Wing commander IV 96 (Primeras escenas con actores reales)
+https://youtu.be/jTLVadYJKlw
+
+Metal gear Solid 98
+https://www.youtube.com/watch?v=jcWwIC4Er3o
+
+GTA: Vice City 2002
+https://www.youtube.com/watch?v=0dBVOVGzohk
+
+Resident evil 4 2005
+https://youtu.be/ktr8ZDEwLwI
+
+Kane and Lynch. 2007
+https://www.youtube.com/watch?v=DSOHSjFZspw
+
+Halo:Reach 2010
+https://www.youtube.com/watch?v=OFZvnOTXxC4
+
+Final fantasy XIV 2014
+https://www.youtube.com/watch?v=LWQ0uNafWyA
+
+Fortnite 2017
+https://www.youtube.com/watch?v=OrxBapYiY4k
+
+Doom eternal 2020
+https://www.youtube.com/watch?v=yLcHbAdJeGE
+
+Elden ring 2022
+https://www.youtube.com/watch?v=xyxVvRzbYt4
+
+
+>Licencia Creative commons CC BY SA 4.0
+
+
+
